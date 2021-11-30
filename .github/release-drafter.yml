@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: file-check-keyword-$NEXT_MINOR_VERSION
